@@ -1,0 +1,110 @@
+===========================Start Testing file error_images/mut_pic_2.jpg =================================
+error_images/mut_pic_2.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_2.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_2.jpg
+File size       : 27343 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+error_images/mut_pic_2.jpg JPEG 1024x680 1024x680+0+0 8-bit sRGB 27343B 0.000u 0:00.000
+===========================Done Testing file error_images/mut_pic_2.jpg =================================
+===========================Start Testing file error_images/mut_pic_21.jpg =================================
+error_images/mut_pic_21.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_21.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_21.jpg
+File size       : 25944 Bytes
+MIME type       : image/jpeg
+Image size      : 0 x 0
+Identify -------------
+error_images/mut_pic_21.jpg JPEG 0x0 16-bit sRGB 25944B 0.000u 0:00.001
+===========================Done Testing file error_images/mut_pic_21.jpg =================================
+===========================Start Testing file error_images/mut_pic_23.jpg =================================
+error_images/mut_pic_23.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_23.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_23.jpg
+File size       : 27242 Bytes
+MIME type       : image/jpeg
+Image size      : 0 x 0
+Identify -------------
+error_images/mut_pic_23.jpg JPEG 0x0 16-bit sRGB 27242B 0.000u 0:00.000
+===========================Done Testing file error_images/mut_pic_23.jpg =================================
+===========================Start Testing file error_images/mut_pic_54.jpg =================================
+error_images/mut_pic_54.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_54.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_54.jpg
+File size       : 23194 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+error_images/mut_pic_54.jpg JPEG 1024x680 1024x680+0+0 8-bit sRGB 23194B 0.000u 0:00.000
+===========================Done Testing file error_images/mut_pic_54.jpg =================================
+===========================Start Testing file error_images/mut_pic_55.jpg =================================
+error_images/mut_pic_55.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_55.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_55.jpg
+File size       : 27188 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+error_images/mut_pic_55.jpg JPEG 0x0 16-bit sRGB 27188B 0.000u 0:00.001
+===========================Done Testing file error_images/mut_pic_55.jpg =================================
+===========================Start Testing file error_images/mut_pic_68.jpg =================================
+error_images/mut_pic_68.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_68.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_68.jpg
+File size       : 27032 Bytes
+MIME type       : image/jpeg
+Image size      : 0 x 0
+Identify -------------
+error_images/mut_pic_68.jpg JPEG 0x0 16-bit sRGB 27032B 0.000u 0:00.001
+===========================Done Testing file error_images/mut_pic_68.jpg =================================
+===========================Start Testing file error_images/mut_pic_83.jpg =================================
+error_images/mut_pic_83.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_83.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_83.jpg
+File size       : 27066 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+error_images/mut_pic_83.jpg JPEG 1024x680 1024x680+0+0 8-bit sRGB 27066B 0.000u 0:00.000
+===========================Done Testing file error_images/mut_pic_83.jpg =================================
+===========================Start Testing file error_images/mut_pic_84.jpg =================================
+error_images/mut_pic_84.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_84.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_84.jpg
+File size       : 29161 Bytes
+MIME type       : image/jpeg
+Image size      : 2050 x 32943
+Identify -------------
+error_images/mut_pic_84.jpg JPEG 0x0 16-bit sRGB 29161B 0.000u 0:00.001
+===========================Done Testing file error_images/mut_pic_84.jpg =================================
+===========================Start Testing file error_images/mut_pic_9.jpg =================================
+error_images/mut_pic_9.jpg 1024x680 24bit N JFIF  [WARNING]  [Compress ERROR]
+Error processing: jpegoptim error_images/mut_pic_9.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_9.jpg
+File size       : 27279 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+error_images/mut_pic_9.jpg JPEG 1024x680 1024x680+0+0 8-bit sRGB 27279B 0.000u 0:00.001
+===========================Done Testing file error_images/mut_pic_9.jpg =================================
+===========================Start Testing file error_images/mut_pic_97.jpg =================================
+error_images/mut_pic_97.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_97.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_97.jpg
+File size       : 27343 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+error_images/mut_pic_97.jpg JPEG 1024x680 1024x680+0+0 8-bit sRGB 27343B 0.000u 0:00.000
+===========================Done Testing file error_images/mut_pic_97.jpg =================================

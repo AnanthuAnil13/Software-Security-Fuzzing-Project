@@ -1,0 +1,797 @@
+===========================Start Testing file error_images/mut_pic_2.jpg =================================
+error_images/mut_pic_2.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_2.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_2.jpg
+File size       : 27343 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_2.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1024x680+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Palette
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 696320
+    Red:
+      min: 128  (0.501961)
+      max: 255 (1)
+      mean: 128.512 (0.503969)
+      standard deviation: 8.03822 (0.0315224)
+      kurtosis: 242.596
+      skewness: 15.6376
+      entropy: 0.0135512
+    Green:
+      min: 128  (0.501961)
+      max: 255 (1)
+      mean: 128.513 (0.503972)
+      standard deviation: 8.04769 (0.0315596)
+      kurtosis: 242.53
+      skewness: 15.6358
+      entropy: 0.0114137
+    Blue:
+      min: 124  (0.486275)
+      max: 255 (1)
+      mean: 128.502 (0.503929)
+      standard deviation: 7.8903 (0.0309423)
+      kurtosis: 244.606
+      skewness: 15.6875
+      entropy: 0.00993184
+  Image statistics:
+    Overall:
+      min: 124  (0.486275)
+      max: 255 (1)
+      mean: 128.509 (0.503957)
+      standard deviation: 7.99207 (0.0313414)
+      kurtosis: 243.29
+      skewness: 15.6549
+      entropy: 0.0116323
+  Colors: 26
+  Histogram:
+    2: (128,128,126) #80807E srgb(128,128,126)
+    693455: (128,128,128) #808080 fractal
+    47: (128,129,124) #80817C srgb(128,129,124)
+    1: (222,224,211) #DEE0D3 srgb(222,224,211)
+    7: (222,225,208) #DEE1D0 srgb(222,225,208)
+    1: (227,229,216) #E3E5D8 srgb(227,229,216)
+    7: (227,230,213) #E3E6D5 srgb(227,230,213)
+    1: (236,238,225) #ECEEE1 srgb(236,238,225)
+    7: (236,239,222) #ECEFDE srgb(236,239,222)
+    1: (248,250,237) #F8FAED srgb(248,250,237)
+    7: (248,251,234) #F8FBEA srgb(248,251,234)
+    37: (253,255,239) #FDFFEF srgb(253,255,239)
+    3: (253,255,241) #FDFFF1 srgb(253,255,241)
+    8: (253,255,242) #FDFFF2 srgb(253,255,242)
+    51: (254,255,238) #FEFFEE srgb(254,255,238)
+    107: (254,255,240) #FEFFF0 srgb(254,255,240)
+    64: (254,255,242) #FEFFF2 srgb(254,255,242)
+    19: (254,255,243) #FEFFF3 srgb(254,255,243)
+    7: (254,255,245) #FEFFF5 srgb(254,255,245)
+    24: (255,255,239) #FFFFEF srgb(255,255,239)
+    98: (255,255,241) #FFFFF1 srgb(255,255,241)
+    43: (255,255,243) #FFFFF3 srgb(255,255,243)
+    18: (255,255,244) #FFFFF4 srgb(255,255,244)
+    1: (255,255,246) #FFFFF6 srgb(255,255,246)
+    16: (255,255,251) #FFFFFB srgb(255,255,251)
+    2288: (255,255,255) #FFFFFF white
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x680+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 75
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: e888939b621beca44825a652fe4f50dee2c8263092c95fc70111105ce521e5f5
+  Artifacts:
+    filename: error_images/mut_pic_2.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27343B
+  Number pixels: 696320
+  Pixels per second: 92.3452MB
+  User time: 0.000u
+  Elapsed time: 0:01.007
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_2.jpg =================================
+===========================Start Testing file error_images/mut_pic_21.jpg =================================
+error_images/mut_pic_21.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_21.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_21.jpg
+File size       : 25944 Bytes
+MIME type       : image/jpeg
+Image size      : 0 x 0
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_21.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 0x0+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Bilevel
+  Base type: Undefined
+  Endianness: Undefined
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Undefined
+  Orientation: Undefined
+  Properties:
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    signature: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Artifacts:
+    filename: error_images/mut_pic_21.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 25944B
+  Number pixels: 0
+  Pixels per second: 0B
+  User time: 0.000u
+  Elapsed time: 0:01.001
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_21.jpg =================================
+===========================Start Testing file error_images/mut_pic_23.jpg =================================
+error_images/mut_pic_23.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_23.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_23.jpg
+File size       : 27242 Bytes
+MIME type       : image/jpeg
+Image size      : 0 x 0
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_23.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 0x0+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Bilevel
+  Base type: Undefined
+  Endianness: Undefined
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Undefined
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    signature: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Artifacts:
+    filename: error_images/mut_pic_23.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27242B
+  Number pixels: 0
+  Pixels per second: 0B
+  User time: 0.000u
+  Elapsed time: 0:01.001
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_23.jpg =================================
+===========================Start Testing file error_images/mut_pic_54.jpg =================================
+error_images/mut_pic_54.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_54.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_54.jpg
+File size       : 23194 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_54.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1024x680+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 696320
+    Red:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 211.281 (0.828555)
+      standard deviation: 68.8209 (0.269886)
+      kurtosis: 0.778186
+      skewness: -1.35989
+      entropy: 0.348259
+    Green:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 195.829 (0.767958)
+      standard deviation: 70.8624 (0.277892)
+      kurtosis: -0.788608
+      skewness: -0.728229
+      entropy: 0.45725
+    Blue:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 180.32 (0.707136)
+      standard deviation: 84.1088 (0.329838)
+      kurtosis: -1.03345
+      skewness: -0.58124
+      entropy: 0.460971
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 195.81 (0.767883)
+      standard deviation: 74.5974 (0.292539)
+      kurtosis: -0.497241
+      skewness: -0.879736
+      entropy: 0.42216
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x680+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 75
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: b7762d126cb1c6f8ed2850ece621e59602c99cc2fb8afe20be9050ae924c8b46
+  Artifacts:
+    filename: error_images/mut_pic_54.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 23194B
+  Number pixels: 696320
+  Pixels per second: 78.7389MB
+  User time: 0.010u
+  Elapsed time: 0:01.008
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_54.jpg =================================
+===========================Start Testing file error_images/mut_pic_55.jpg =================================
+error_images/mut_pic_55.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_55.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_55.jpg
+File size       : 27188 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_55.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 0x0+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Bilevel
+  Base type: Undefined
+  Endianness: Undefined
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Undefined
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    signature: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Artifacts:
+    filename: error_images/mut_pic_55.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27188B
+  Number pixels: 0
+  Pixels per second: 0B
+  User time: 0.000u
+  Elapsed time: 0:01.001
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_55.jpg =================================
+===========================Start Testing file error_images/mut_pic_68.jpg =================================
+error_images/mut_pic_68.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_68.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_68.jpg
+File size       : 27032 Bytes
+MIME type       : image/jpeg
+Image size      : 0 x 0
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_68.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 0x0+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Bilevel
+  Base type: Undefined
+  Endianness: Undefined
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Undefined
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    signature: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Artifacts:
+    filename: error_images/mut_pic_68.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27032B
+  Number pixels: 0
+  Pixels per second: 0B
+  User time: 0.000u
+  Elapsed time: 0:01.001
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_68.jpg =================================
+===========================Start Testing file error_images/mut_pic_83.jpg =================================
+error_images/mut_pic_83.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_83.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_83.jpg
+File size       : 27066 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_83.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1024x680+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 696320
+    Red:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 225.246 (0.883317)
+      standard deviation: 65.5188 (0.256936)
+      kurtosis: 4.11598
+      skewness: -2.2872
+      entropy: 0.373451
+    Green:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 209.06 (0.819845)
+      standard deviation: 69.1112 (0.271024)
+      kurtosis: 0.176932
+      skewness: -1.2334
+      entropy: 0.485291
+    Blue:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 192.023 (0.753033)
+      standard deviation: 87.0003 (0.341178)
+      kurtosis: -0.717931
+      skewness: -0.926772
+      entropy: 0.494264
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 208.777 (0.818731)
+      standard deviation: 73.8767 (0.289713)
+      kurtosis: 0.57657
+      skewness: -1.40267
+      entropy: 0.451002
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x680+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 75
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: 949ad723c730376bb34f074aaad0f39e40fe7b6c83c1a56d2b5ec2e88671b357
+  Artifacts:
+    filename: error_images/mut_pic_83.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27066B
+  Number pixels: 696320
+  Pixels per second: 93.6657MB
+  User time: 0.000u
+  Elapsed time: 0:01.007
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_83.jpg =================================
+===========================Start Testing file error_images/mut_pic_84.jpg =================================
+error_images/mut_pic_84.jpg  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_84.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_84.jpg
+File size       : 29161 Bytes
+MIME type       : image/jpeg
+Image size      : 2050 x 32943
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_84.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 0x0+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Bilevel
+  Base type: Undefined
+  Endianness: Undefined
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Undefined
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v65536), quality = 
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    signature: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Artifacts:
+    filename: error_images/mut_pic_84.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 29161B
+  Number pixels: 0
+  Pixels per second: 0B
+  User time: 0.000u
+  Elapsed time: 0:01.000
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_84.jpg =================================
+===========================Start Testing file error_images/mut_pic_9.jpg =================================
+error_images/mut_pic_9.jpg 1024x680 24bit N JFIF  [WARNING]  [Compress ERROR]
+Error processing: jpegoptim error_images/mut_pic_9.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_9.jpg
+File size       : 27279 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_9.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1024x680+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 696320
+    Red:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 178.791 (0.701141)
+      standard deviation: 90.2024 (0.353735)
+      kurtosis: -0.480024
+      skewness: -0.93836
+      entropy: 0.352848
+    Green:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 129.297 (0.507048)
+      standard deviation: 102.779 (0.403056)
+      kurtosis: -1.61096
+      skewness: -0.086009
+      entropy: 0.415466
+    Blue:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 85.2088 (0.334152)
+      standard deviation: 110.621 (0.433808)
+      kurtosis: -1.28445
+      skewness: 0.803165
+      entropy: 0.267256
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 131.099 (0.514114)
+      standard deviation: 101.201 (0.396866)
+      kurtosis: -1.74013
+      skewness: -0.0680135
+      entropy: 0.34519
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x680+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 75
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 75
+
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: cdd8948ea7f741294a07104efd350d7ac979d7025e596d27dbf93fcfd91e25c4
+  Artifacts:
+    filename: error_images/mut_pic_9.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27279B
+  Number pixels: 696320
+  Pixels per second: 102.678MB
+  User time: 0.000u
+  Elapsed time: 0:01.006
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_9.jpg =================================
+===========================Start Testing file error_images/mut_pic_97.jpg =================================
+error_images/mut_pic_97.jpg 1024x680 24bit N JFIF  [ERROR]
+Error processing: jpegoptim error_images/mut_pic_97.jpg
+Exiv2    -------------
+File name       : error_images/mut_pic_97.jpg
+File size       : 27343 Bytes
+MIME type       : image/jpeg
+Image size      : 1024 x 680
+Identify -------------
+Image:
+  Filename: error_images/mut_pic_97.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 1024x680+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Bilevel
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8/1-bit
+  Channel depth:
+    red: 1-bit
+    green: 1-bit
+    blue: 1-bit
+  Channel statistics:
+    Pixels: 696320
+    Red:
+      min: 0  (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: -3
+      skewness: 0
+      entropy: 0
+    Green:
+      min: 0  (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: -3
+      skewness: 0
+      entropy: 0
+    Blue:
+      min: 0  (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: -3
+      skewness: 0
+      entropy: 0
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 0 (0)
+      mean: 0 (0)
+      standard deviation: 0 (0)
+      kurtosis: -3
+      skewness: 0
+      entropy: 0
+  Colors: 1
+  Histogram:
+    696320: (0,0,0) #000000 black
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 1024x680+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 67
+  Orientation: Undefined
+  Properties:
+    comment: CREATOR: ggd-jpeg󠁨 v1.0 (using IJG JPEG 𐀀v62), qual
+    date:create: 2024-01-21T20:24:33+00:00
+    date:modify: 2024-01-21T20:24:33+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: f3325e5c5ee33d9fe7176e23ff4f33815246eb001cc40a4496749416c666595e
+  Artifacts:
+    filename: error_images/mut_pic_97.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 27343B
+  Number pixels: 696320
+  Pixels per second: 678.41MB
+  User time: 0.000u
+  Elapsed time: 0:01.001
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
+===========================Done Testing file error_images/mut_pic_97.jpg =================================
