@@ -1,0 +1,103 @@
+ jpegoptim ./mutated_images/* -d ./output/ -v -s -o --all-progressive
+All output files will be progressive
+Using maximum of 1 parallel threads
+./mutated_images/mut_pic_1.jpg 1024x680 24bit N  [OK] 27160 --> 26945 bytes (0.79%), optimized.
+./mutated_images/mut_pic_10.jpg 1024x680 24bit N  [OK] 26965 --> 26916 bytes (0.18%), optimized.
+./mutated_images/mut_pic_100.jpg 1024x680 24bit N  [OK] 27171 --> 26955 bytes (0.79%), optimized.
+./mutated_images/mut_pic_11.jpg 1024x680 24bit N  [OK] 27147 --> 26975 bytes (0.63%), optimized.
+./mutated_images/mut_pic_12.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26736 --> 26672 bytes (0.24%), optimized.
+./mutated_images/mut_pic_13.jpg 1024x680 24bit N  [OK] 27103 --> 26890 bytes (0.79%), optimized.
+./mutated_images/mut_pic_14.jpg 1024x680 24bit N  [OK] 25836 --> 25665 bytes (0.66%), optimized.
+./mutated_images/mut_pic_15.jpg 1024x680 24bit N  [OK] 25154 --> 24932 bytes (0.88%), optimized.
+./mutated_images/mut_pic_16.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 25563 --> 25557 bytes (0.02%), optimized.
+./mutated_images/mut_pic_17.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 27101 --> 27141 bytes (-0.15%), skipped.
+./mutated_images/mut_pic_18.jpg 1024x680 24bit N  [OK] 27682 --> 27483 bytes (0.72%), optimized.
+./mutated_images/mut_pic_19.jpg 1024x680 24bit N  [OK] 26839 --> 26648 bytes (0.71%), optimized.
+./mutated_images/mut_pic_2.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  (Didn't expect more than one scan)  [ERROR]
+./mutated_images/mut_pic_20.jpg 1024x680 24bit N  [OK] 27171 --> 26977 bytes (0.71%), optimized.
+./mutated_images/mut_pic_21.jpg  (Corrupt JPEG data: 88 extraneous bytes before marker 0xc4)  (Invalid JPEG file structure: SOS before SOF)  [ERROR]
+./mutated_images/mut_pic_22.jpg 1024x680 24bit N  [OK] 27272 --> 27067 bytes (0.75%), optimized.
+./mutated_images/mut_pic_23.jpg  (Corrupt JPEG data: 11 extraneous bytes before marker 0xc4)  (Invalid JPEG file structure: SOS before SOF)  [ERROR]
+./mutated_images/mut_pic_24.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26828 --> 26755 bytes (0.27%), optimized.
+./mutated_images/mut_pic_25.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26379 --> 26334 bytes (0.17%), optimized.
+./mutated_images/mut_pic_26.jpg 1024x680 24bit N  [OK] 26781 --> 26693 bytes (0.33%), optimized.
+./mutated_images/mut_pic_27.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 27020 --> 26835 bytes (0.68%), optimized.
+./mutated_images/mut_pic_28.jpg 1024x680 24bit N  [OK] 27149 --> 26936 bytes (0.78%), optimized.
+./mutated_images/mut_pic_29.jpg 1024x680 24bit N  [OK] 27123 --> 27028 bytes (0.35%), optimized.
+./mutated_images/mut_pic_3.jpg 1024x680 24bit N  [OK] 26904 --> 26803 bytes (0.38%), optimized.
+./mutated_images/mut_pic_30.jpg 1024x680 24bit N  [OK] 27173 --> 26954 bytes (0.81%), optimized.
+./mutated_images/mut_pic_31.jpg 1024x680 24bit N  [OK] 27157 --> 26995 bytes (0.60%), optimized.
+./mutated_images/mut_pic_32.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: bad Huffman code)  [WARNING] 27318 --> 27115 bytes (0.74%), optimized.
+./mutated_images/mut_pic_33.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 25577 --> 25976 bytes (-1.56%), skipped.
+./mutated_images/mut_pic_34.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 25753 --> 25909 bytes (-0.61%), skipped.
+./mutated_images/mut_pic_35.jpg 1024x680 24bit N  [OK] 27176 --> 27039 bytes (0.50%), optimized.
+./mutated_images/mut_pic_36.jpg 1024x680 24bit N  [OK] 28670 --> 28549 bytes (0.42%), optimized.
+./mutated_images/mut_pic_37.jpg 1024x680 24bit N  [OK] 27327 --> 27112 bytes (0.79%), optimized.
+./mutated_images/mut_pic_38.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: bad Huffman code)  [WARNING] 24435 --> 24568 bytes (-0.54%), skipped.
+./mutated_images/mut_pic_39.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: bad Huffman code)  [WARNING] 26444 --> 26683 bytes (-0.90%), skipped.
+./mutated_images/mut_pic_4.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 25527 --> 25749 bytes (-0.87%), skipped.
+./mutated_images/mut_pic_40.jpg 1024x680 24bit N  [OK] 27100 --> 26904 bytes (0.72%), optimized.
+./mutated_images/mut_pic_41.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 25375 --> 25568 bytes (-0.76%), skipped.
+./mutated_images/mut_pic_42.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26798 --> 26656 bytes (0.53%), optimized.
+./mutated_images/mut_pic_43.jpg 1024x680 24bit N  [OK] 27351 --> 27152 bytes (0.73%), optimized.
+./mutated_images/mut_pic_44.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26030 --> 25987 bytes (0.17%), optimized.
+./mutated_images/mut_pic_45.jpg 1024x680 24bit N  [OK] 27170 --> 26970 bytes (0.74%), optimized.
+./mutated_images/mut_pic_46.jpg 1024x680 24bit N  [OK] 27164 --> 26949 bytes (0.79%), optimized.
+./mutated_images/mut_pic_47.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26708 --> 26628 bytes (0.30%), optimized.
+./mutated_images/mut_pic_48.jpg 1024x680 24bit N  [OK] 26791 --> 27347 bytes (-2.08%), skipped.
+./mutated_images/mut_pic_49.jpg 1024x680 24bit N  [OK] 26707 --> 26464 bytes (0.91%), optimized.
+./mutated_images/mut_pic_5.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 25576 --> 26653 bytes (-4.21%), skipped.
+./mutated_images/mut_pic_50.jpg 1024x680 24bit N  [OK] 27362 --> 27255 bytes (0.39%), optimized.
+./mutated_images/mut_pic_51.jpg 1024x680 24bit N  [OK] 27156 --> 27506 bytes (-1.29%), skipped.
+./mutated_images/mut_pic_52.jpg 1024x680 24bit N  [OK] 27168 --> 27041 bytes (0.47%), optimized.
+./mutated_images/mut_pic_53.jpg 1024x680 24bit N  [OK] 28643 --> 29124 bytes (-1.68%), skipped.
+./mutated_images/mut_pic_54.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  (Didn't expect more than one scan)  [ERROR]
+./mutated_images/mut_pic_55.jpg  (Bogus Huffman table definition)  [ERROR]
+./mutated_images/mut_pic_56.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26825 --> 26710 bytes (0.43%), optimized.
+./mutated_images/mut_pic_57.jpg 1024x680 24bit N  [OK] 27056 --> 26842 bytes (0.79%), optimized.
+./mutated_images/mut_pic_58.jpg 1024x680 24bit N  [OK] 27155 --> 26940 bytes (0.79%), optimized.
+./mutated_images/mut_pic_59.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: bad Huffman code)  [WARNING] 26894 --> 26762 bytes (0.49%), optimized.
+./mutated_images/mut_pic_6.jpg 1024x680 24bit N  [OK] 27171 --> 26954 bytes (0.80%), optimized.
+./mutated_images/mut_pic_60.jpg 1024x680 24bit N  [OK] 27211 --> 26986 bytes (0.83%), optimized.
+./mutated_images/mut_pic_61.jpg 1024x680 24bit N  [OK] 27202 --> 26986 bytes (0.79%), optimized.
+./mutated_images/mut_pic_62.jpg 1024x680 24bit N  [OK] 27161 --> 26961 bytes (0.74%), optimized.
+./mutated_images/mut_pic_63.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 23792 --> 24203 bytes (-1.73%), skipped.
+./mutated_images/mut_pic_64.jpg 1024x680 24bit N  [OK] 27167 --> 27136 bytes (0.11%), optimized.
+./mutated_images/mut_pic_65.jpg 1024x680 24bit N  [OK] 27175 --> 27104 bytes (0.26%), optimized.
+./mutated_images/mut_pic_66.jpg 1024x680 24bit N  [OK] 27085 --> 26927 bytes (0.58%), optimized.
+./mutated_images/mut_pic_67.jpg 1024x680 24bit N  [OK] 27172 --> 26975 bytes (0.73%), optimized.
+./mutated_images/mut_pic_68.jpg  (Corrupt JPEG data: 1 extraneous bytes before marker 0xdb)  (Bogus DQT index 13)  [ERROR]
+./mutated_images/mut_pic_69.jpg 1024x680 24bit N  [OK] 27279 --> 27201 bytes (0.29%), optimized.
+./mutated_images/mut_pic_7.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26860 --> 26714 bytes (0.54%), optimized.
+./mutated_images/mut_pic_70.jpg 1024x680 24bit N  [OK] 27150 --> 27002 bytes (0.55%), optimized.
+./mutated_images/mut_pic_71.jpg 1024x680 24bit N  [OK] 27176 --> 27054 bytes (0.45%), optimized.
+./mutated_images/mut_pic_72.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: bad Huffman code)  [WARNING] 24906 --> 25756 bytes (-3.41%), skipped.
+./mutated_images/mut_pic_73.jpg 1024x680 24bit N  [OK] 27171 --> 26960 bytes (0.78%), optimized.
+./mutated_images/mut_pic_74.jpg 1024x680 24bit N  [OK] 28211 --> 28401 bytes (-0.67%), skipped.
+./mutated_images/mut_pic_75.jpg 1024x680 24bit N  [OK] 27171 --> 26941 bytes (0.85%), optimized.
+./mutated_images/mut_pic_76.jpg 1024x680 24bit N  [OK] 27153 --> 26931 bytes (0.82%), optimized.
+./mutated_images/mut_pic_77.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  [WARNING] 26464 --> 26409 bytes (0.21%), optimized.
+./mutated_images/mut_pic_78.jpg 1024x680 24bit N  [OK] 27184 --> 27122 bytes (0.23%), optimized.
+./mutated_images/mut_pic_79.jpg 1024x680 24bit N  [OK] 27201 --> 26976 bytes (0.83%), optimized.
+./mutated_images/mut_pic_8.jpg 1024x680 24bit N  [OK] 26784 --> 26569 bytes (0.80%), optimized.
+./mutated_images/mut_pic_80.jpg 1024x680 24bit N  [OK] 27167 --> 27023 bytes (0.53%), optimized.
+./mutated_images/mut_pic_81.jpg 1024x680 24bit N  [OK] 28032 --> 27829 bytes (0.72%), optimized.
+./mutated_images/mut_pic_82.jpg 1024x680 24bit N  [OK] 27158 --> 26956 bytes (0.74%), optimized.
+./mutated_images/mut_pic_83.jpg 1024x680 24bit N JFIF,COM (Corrupt JPEG data: premature end of data segment)  (Unsupported marker type 0x8d)  [ERROR]
+./mutated_images/mut_pic_84.jpg  (Corrupt JPEG data: 25 extraneous bytes before marker 0xdb)  (Bogus marker length)  [ERROR]
+./mutated_images/mut_pic_85.jpg 1024x680 24bit N  [OK] 29659 --> 29553 bytes (0.36%), optimized.
+./mutated_images/mut_pic_86.jpg 1024x680 24bit N  [OK] 27175 --> 26987 bytes (0.69%), optimized.
+./mutated_images/mut_pic_87.jpg 1024x680 24bit N  [OK] 26706 --> 26602 bytes (0.39%), optimized.
+./mutated_images/mut_pic_88.jpg 1024x680 24bit N  [OK] 27182 --> 26976 bytes (0.76%), optimized.
+./mutated_images/mut_pic_89.jpg 1024x680 24bit N  [OK] 28318 --> 28204 bytes (0.40%), optimized.
+./mutated_images/mut_pic_9.jpg  (Corrupt JPEG data: 29 extraneous bytes before marker 0xda) 1024x680 24bit N JFIF,COM [WARNING]  (DCT coefficient out of range)  [Compress ERROR: DCT coefficient out of range]
+./mutated_images/mut_pic_90.jpg 1024x680 24bit N  [OK] 27173 --> 26950 bytes (0.82%), optimized.
+./mutated_images/mut_pic_91.jpg 1024x680 24bit N  [OK] 27158 --> 27058 bytes (0.37%), optimized.
+./mutated_images/mut_pic_92.jpg 1024x680 24bit N  [OK] 27157 --> 26948 bytes (0.77%), optimized.
+./mutated_images/mut_pic_93.jpg 1024x680 24bit N  [OK] 27090 --> 26914 bytes (0.65%), optimized.
+./mutated_images/mut_pic_94.jpg 1024x680 24bit N  [OK] 27152 --> 27069 bytes (0.31%), optimized.
+./mutated_images/mut_pic_95.jpg 1024x680 24bit N  [OK] 27166 --> 27095 bytes (0.26%), optimized.
+./mutated_images/mut_pic_96.jpg 1024x680 24bit N  [OK] 27101 --> 26934 bytes (0.62%), optimized.
+./mutated_images/mut_pic_97.jpg  (Corrupt JPEG data: 4 extraneous bytes before marker 0xfe) 1024x680 24bit N JFIF,COM (Quantization table 0xfb was not defined)  [ERROR]
+./mutated_images/mut_pic_98.jpg 1024x680 24bit N  [OK] 27139 --> 26918 bytes (0.81%), optimized.
+./mutated_images/mut_pic_99.jpg 1024x680 24bit N  [OK] 27174 --> 27077 bytes (0.36%), optimized.
